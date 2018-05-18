@@ -3,3 +3,4 @@ This is the second modification!
 This is the amended modification!
 This is the reset modification!
 This is the commit-msg modification!
+This is the user and email modification!
